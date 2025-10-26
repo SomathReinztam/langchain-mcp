@@ -1,0 +1,5 @@
+(_entorno_) C:\Users\Acer\Documents\python\ScrapingAgent\otros>llm_invoke.py
+
+<class 'langchain_core.messages.ai.AIMessage'>
+
+content='¡Claro! Aquí te dejo uno:\n\n¿Por qué la bombilla fue al psicólogo?\n\n¡Porque se sentía un poco "quemada"!\n\nEspero que te haya hecho reír un poco. ¿Quieres escuchar otro?' additional_kwargs={} response_metadata={'token_usage': {'completion_tokens': 58, 'prompt_tokens': 46, 'total_tokens': 104, 'completion_time': 0.119654357, 'prompt_time': 0.017977544, 'queue_time': 0.194412065, 'total_time': 0.137631901}, 'model_name': 'llama-3.3-70b-versatile', 'system_fingerprint': 'fp_2ddfbb0da0', 'service_tier': 'on_demand', 'finish_reason': 'stop', 'logprobs': None} id='run--80523d32-a800-4b85-acae-3b416df8f6b8-0' usage_metadata={'input_tokens': 46, 'output_tokens': 58, 'total_tokens': 104}
